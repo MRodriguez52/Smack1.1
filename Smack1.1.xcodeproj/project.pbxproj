@@ -17,6 +17,7 @@
 		703590D2216EA369000A1711 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703590D1216EA369000A1711 /* GradientView.swift */; };
 		703590D521704413000A1711 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703590D421704413000A1711 /* Constants.swift */; };
 		703590D721704A43000A1711 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 703590D621704A43000A1711 /* LoginVC.swift */; };
+		70C1C2682170EF5900244C34 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C1C2672170EF5900244C34 /* CreateAccountVC.swift */; };
 		893DF668CC739395B7CE50DE /* Pods_Smack1_1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2A6B83F4896ADAF1045638 /* Pods_Smack1_1.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		703590D1216EA369000A1711 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		703590D421704413000A1711 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		703590D621704A43000A1711 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		70C1C2672170EF5900244C34 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		85BEF00898827C07F1B1EEAC /* Pods-Smack1.1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack1.1.release.xcconfig"; path = "Pods/Target Support Files/Pods-Smack1.1/Pods-Smack1.1.release.xcconfig"; sourceTree = "<group>"; };
 		AC2A6B83F4896ADAF1045638 /* Pods_Smack1_1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack1_1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -103,6 +105,7 @@
 				700B79D7216E7AF70026D7E8 /* ChatVC.swift */,
 				700B79D9216E7B0C0026D7E8 /* ChannelVC.swift */,
 				703590D621704A43000A1711 /* LoginVC.swift */,
+				70C1C2672170EF5900244C34 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				700B79DA216E7B0C0026D7E8 /* ChannelVC.swift in Sources */,
 				700B79D8216E7AF70026D7E8 /* ChatVC.swift in Sources */,
+				70C1C2682170EF5900244C34 /* CreateAccountVC.swift in Sources */,
 				703590D721704A43000A1711 /* LoginVC.swift in Sources */,
 				703590D2216EA369000A1711 /* GradientView.swift in Sources */,
 				700B79BE216E70C40026D7E8 /* AppDelegate.swift in Sources */,
